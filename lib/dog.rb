@@ -1,5 +1,9 @@
 def Dog 
   
+  def initialize(breed)
+    
+  end
+  
   def breed=(breed)
     @breed= breed
   end
