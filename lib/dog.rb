@@ -1,6 +1,6 @@
 def Dog 
   
-  def initialize(breed)
+  def initialize(breed="Mutt")
     @breed= breed
   end
   
