@@ -1,6 +1,8 @@
 def Dog 
   
-  def 
+  def breed=(breed)
+    
+  end
   
   def breed
     @breed
