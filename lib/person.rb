@@ -1,1 +1,13 @@
-def Pe
+class Person
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+end
